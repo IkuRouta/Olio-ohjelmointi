@@ -1,0 +1,7 @@
+C:/Users/vkork/OneDrive/Työpöytä/Insiner/OLIO/palatukset/h1/build/CMakeFiles/h1.dir
+C:/Users/vkork/OneDrive/Työpöytä/Insiner/OLIO/palatukset/h1/build/CMakeFiles/edit_cache.dir
+C:/Users/vkork/OneDrive/Työpöytä/Insiner/OLIO/palatukset/h1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/vkork/OneDrive/Työpöytä/Insiner/OLIO/palatukset/h1/build/CMakeFiles/list_install_components.dir
+C:/Users/vkork/OneDrive/Työpöytä/Insiner/OLIO/palatukset/h1/build/CMakeFiles/install.dir
+C:/Users/vkork/OneDrive/Työpöytä/Insiner/OLIO/palatukset/h1/build/CMakeFiles/install/local.dir
+C:/Users/vkork/OneDrive/Työpöytä/Insiner/OLIO/palatukset/h1/build/CMakeFiles/install/strip.dir
