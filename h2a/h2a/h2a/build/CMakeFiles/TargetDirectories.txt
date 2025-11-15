@@ -1,0 +1,7 @@
+C:/Users/vkork/OneDrive/Työpöytä/Insiner/OLIO/h2a/h2a/build/CMakeFiles/h2a.dir
+C:/Users/vkork/OneDrive/Työpöytä/Insiner/OLIO/h2a/h2a/build/CMakeFiles/edit_cache.dir
+C:/Users/vkork/OneDrive/Työpöytä/Insiner/OLIO/h2a/h2a/build/CMakeFiles/rebuild_cache.dir
+C:/Users/vkork/OneDrive/Työpöytä/Insiner/OLIO/h2a/h2a/build/CMakeFiles/list_install_components.dir
+C:/Users/vkork/OneDrive/Työpöytä/Insiner/OLIO/h2a/h2a/build/CMakeFiles/install.dir
+C:/Users/vkork/OneDrive/Työpöytä/Insiner/OLIO/h2a/h2a/build/CMakeFiles/install/local.dir
+C:/Users/vkork/OneDrive/Työpöytä/Insiner/OLIO/h2a/h2a/build/CMakeFiles/install/strip.dir
